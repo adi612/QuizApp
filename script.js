@@ -20,10 +20,10 @@ const questions=[
     {
         question:"Which state has the largest area?",
         answers:[
-            {text:'Zack',correct:true},
-            {text:'Dada',correct:false},
-            {text:'Sannit Mom',correct:false},
-            {text:'Rajiya',correct:false},
+            {text:'Rajasthan ',correct:true},
+            {text:'UP',correct:false},
+            {text:'Mahrastra',correct:false},
+            {text:'Bihar',correct:false},
         ]
     },
     {
